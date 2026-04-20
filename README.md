@@ -7,7 +7,7 @@ During my tenure as a Technical Services Professional at **IBM India**, I direct
 
 ### **🏗️ Core Architectural Pillars**
 
-* **Massive Scale Operations:** Governed a distributed environment of 500+ ESX hosts and over 4,200 physical servers, supporting 1,000+ Virtual Machines.
+* **Massive Scale Operations:** Governed a distributed environment of 50+ ESX hosts and over 1000+ physical servers, supporting 500+ Virtual Machines.
 * **Lifecycle Orchestration:** Successfully led the large-scale upgrade of ESX 3.5 to ESX 4.0 across the global fleet using Host Update Utility tools.
 * **Performance Engineering:** Served as the Subject Matter Expert (SME) for high-availability features, including HA, DRS, and VMotion, to ensure 24/7 business continuity.
 * **Resource Governance:** Engineered granular access control models, managing complex Users, Groups, Permissions, and Roles to maintain a "Least Privilege" security posture.

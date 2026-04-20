@@ -8,7 +8,7 @@ To manage 500+ hosts effectively, I utilized a "Data-Driven" approach to avoid p
 
 ### **2. Storage I/O Optimization**
 * **Latency Thresholds:** Established 20ms alerts on datastores to trigger storage vMotion and rebalance I/O across the SAN fabric.
-* [cite_start]**C-Drive Expansion Protocol:** Developed a standardized workflow for expanding Windows/Linux volumes without requiring downtime[cite: 103, 146].
+* **C-Drive Expansion Protocol:** Developed a standardized workflow for expanding Windows/Linux volumes without requiring downtime[cite: 103, 146].
 
 ### **3. Root Cause Analysis (RCA) Framework**
-* [cite_start]Used VMware esxtop and performance logs to isolate "noisy neighbor" VMs and apply DRS affinity/anti-affinity rules[cite: 137, 153].
+* Used VMware esxtop and performance logs to isolate "noisy neighbor" VMs and apply DRS affinity/anti-affinity rules[cite: 137, 153].
